@@ -36,6 +36,7 @@
 .logo{
   height: 32px;
   width: 228px;
+  border: 1px solid red;
 }
 
 .logo_place_hedder{
@@ -50,6 +51,7 @@
   font-size: 102px;
   line-height: 96px;
   font-weight: 600;
+  border: 1px solid red;
 }
 
 .subtitle{
@@ -57,4 +59,5 @@
   left: 64px;
   bottom: 30px;
   width: 388px;
+  border: 1px solid red;
 }
