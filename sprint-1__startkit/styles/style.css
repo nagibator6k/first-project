@@ -80,3 +80,23 @@
   z-index: 1;
 }
 
+.description{
+  display: flex;
+  border: 1px solid rgb(115, 0, 255);
+  justify-content: center;
+  align-items: center;
+}
+
+.two-columns{
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  border: 1px solid red;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.brief{
+  width: 175px;
+  border: 1px solid rgb(0, 255, 38);
+}
