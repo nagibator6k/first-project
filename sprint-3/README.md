@@ -22,5 +22,3 @@
 
 - Методология БЭМ для организации кода.
 
-## Ссылка на проект
-[Russian Travel на GitHub Pages](https://github.com/nagibator6k/first-project/blob/project-3/sprint-3/index.html)
